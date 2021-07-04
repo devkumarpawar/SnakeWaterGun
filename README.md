@@ -1,2 +1,3 @@
 # SnakeWaterGun
- game of snake water & gun using random module in Python 
+
+**Game of snake water & gun using random module in Python**
